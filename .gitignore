@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+# Local runtime state and databases
+src/database/lmdb/*.mdb
+src/database/lmdb/*.lock
+
+# Dependencies and logs
+node_modules/
+npm-debug.log*
+*.log
