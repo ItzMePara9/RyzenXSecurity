@@ -131,11 +131,10 @@ Before installing, make sure the environment has:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_DIRECTORY
+git clone https://github.com/ItzMePara9/RyzenXSecurity
+cd RyzenXSecurity
 ```
 
-Replace the placeholders with the actual repository URL and directory name.
 
 ### 2. Install system dependencies
 
